@@ -58,9 +58,9 @@ input[type="submit"] {
 }
 
 .select-container {
-  width: 100%;  /* Optional: Control width here */
-  max-width: 200px; /* Optional: Limit maximum width */
-  margin: 10px 0;  /* Space around the select */
+  width: 100%;  
+  max-width: 200px; 
+  margin: 10px 0;  
   align-self: center;
 }
 
